@@ -14,3 +14,7 @@ python:
     - method: pip
       path: .
   system_packages: true
+  
+formats:
+  - pdf
+  - epub
